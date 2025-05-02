@@ -1,4 +1,4 @@
-# Click here to viw the [React Todo List App](https://rahma-alam-samiha.github.io/React-Todo/).
+# Click here to view the [React Todo List App](https://rahma-alam-samiha.github.io/React-Todo/).
 
 # Getting Started with Create React App
 
